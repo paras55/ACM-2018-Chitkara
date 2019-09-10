@@ -1,4 +1,5 @@
 # ACM-2018-Chitkara
 
 
+We will use a microcontroller(basically arduino uno/ nano) to tackle this problem . Contrary to the common practice of installing a single tubewell tank , we opt for using two tanks in the fields . This will be used in conjunction with sensors(broadly Temperature sensor, water level sensor, moisture sensor  that would help to predict the excess water level, moisture and also the temperature of the surroundings will also be taken in consideration. As soon as the water level and moisture level  crosses the adequate level/amount required for that particular crop , the pipe connector would move itself  transferring the water to the second tank  thus saving water wastage and also saving crop from  over irrigation. Recently  A competition was held namely ACM  Commute 2018 at Chitkara University , Chandigarh ,my poster got selected  in top 23 posters  out of 100 posters . The poster was objecting  broadly th e same issue . Link to the poster is given below 
 This is a project I won 3rd prize out of 100 posters at Chitkara University Chandigarh.
